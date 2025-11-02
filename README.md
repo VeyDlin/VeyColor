@@ -15,17 +15,25 @@ A curated collection of professional PCB layer color schemes for Altium Designer
 ![VeyColor2](.github/VeyColor2.png)
 Main balanced scheme for daily use with improved contrast.
 
+[View full color palette →](.docs/VeyColor2.md)
+
 ### VeyColor2 CoolTones
 ![VeyColor2_CoolTones](.github/VeyColor2_CoolTones.png)
 Cool color palette with blues and cyans, easy on the eyes.
+
+[View full color palette →](.docs/VeyColor2_CoolTones.md)
 
 ### VeyColor2 PastelNeutral
 ![VeyColor2_PastelNeutral](.github/VeyColor2_PastelNeutral.png)
 Soft pastel colors designed for extended work sessions.
 
+[View full color palette →](.docs/VeyColor2_PastelNeutral.md)
+
 ### VeyColor2 Balanced
 ![VeyColor2_Balanced](.github/VeyColor2_Balanced.png)
 Neutral moderate saturation for a professional appearance.
+
+[View full color palette →](.docs/VeyColor2_Balanced.md)
 
 
 ## Remix Versions
@@ -34,6 +42,8 @@ Neutral moderate saturation for a professional appearance.
 ![VeyColor2_Classic](.github/VeyColor2_Classic.png)
 Bright saturated colors, perfect for presentations and screenshots.
 
+[View full color palette →](.docs/VeyColor2_Classic.md)
+
 
 ## Experimental Versions
 
@@ -41,13 +51,19 @@ Bright saturated colors, perfect for presentations and screenshots.
 ![VeyColor2_Cyberpunk](.github/VeyColor2_Cyberpunk.png)
 Experimental neon colors on dark background for a futuristic look.
 
+[View full color palette →](.docs/VeyColor2_Cyberpunk.md)
+
 ### VeyColor2 Realistic
 ![VeyColor2_Realistic](.github/VeyColor2_Realistic.png)
 Realistic PCB appearance with traditional green solder mask.
 
+[View full color palette →](.docs/VeyColor2_Realistic.md)
+
 ### VeyColor2 Pink
 ![VeyColor2_Pink](.github/VeyColor2_Pink.png)
 Aesthetic pastel lavender-pink theme.
+
+[View full color palette →](.docs/VeyColor2_Pink.md)
 
 
 ## Old Versions
@@ -55,3 +71,5 @@ Aesthetic pastel lavender-pink theme.
 ### VeyColor
 ![VeyColor](.github/VeyColor.png)
 Classic balanced scheme - the foundation of the collection.
+
+[View full color palette →](.docs/VeyColor.md)
